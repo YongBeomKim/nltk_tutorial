@@ -1,0 +1,90 @@
+Samsung Electronics posted KRW 65.98 trillion in consolidated revenue and KRW 15.15 trillion in operating profit for the fourth quarter of 2017.
+ 
+Overall, the company reported full-year revenue of KRW 239.58 trillion and full-year operating profit of KRW 53.65 trillion.
+ 
+Fourth quarter earnings were driven by the components business, with the largest contribution coming from the Memory business that manufactures DRAM and NAND, as orders for high-performance memory products for servers and mobile storage were strong. However, weak seasonality impacted growth for the System LSI and Foundry businesses.
+ 
+The Display Panel business, which manufactures OLED and LCD screens, saw increased shipments of OLED panels for premium smartphones, but profitability for LCD panels decreased due to weak seasonality, which dampened sales and ASP.
+ 
+For the IT & Mobile Communications Division (IM), earnings in the mobile business declined due to a hike in marketing costs under strong seasonality. Total smartphone shipments decreased due to the lineup optimization of low-end models, while shipments of flagship products, such as the Galaxy Note 8, increased from the previous quarter. In the network business, customers’ LTE investments concentrated in the first half, resulting in the weak earnings in the second half.
+ 
+The Consumer Electronics Division, comprising the TV and home appliances businesses, posted gains for the quarter. TV earnings increased QoQ on increased sales of premium products including ultra large-size and QLED models. For home appliances, demand for high-end washing machines and ovens in North America and Europe was responsible for stronger revenue on a YoY basis.
+ 
+As indicated in Samsung’s preliminary earnings announcement in early January, operating profit was affected by the appreciation of the Korean won against the U.S. dollar and other major currencies, with the impact amounting to approximately KRW 660 billion QoQ. A one-off incentive paid to employees of the semiconductor division also affected earnings.
+ 
+Looking ahead, the first quarter, despite being a traditionally slow season, is expected to show strong demand for memory products used in datacenters. Shipments of System LSI products are forecast to pick up, as orders for APs and image sensors for flagship devices are expected to improve.
+ 
+The Display Panel business in the first three months of the year is likely to face challenges such as intensified competition from LTPS LCD vendors and seasonally weak LCD demand. In spite of this, Samsung will try to improve profitability by increasing the high-end LCD portion of screens and enhancing productivity of flexible OLED panels, among other measures.
+ 
+In the first quarter, the company expects the mobile business to improve its earnings, led by an increase in sales of flagship products with the launch of Galaxy S9. Samsung’s TV business will be affected by weak seasonality, but is aiming to be profitable by expanding sales of premium products and pushing for the early release of new models. Meanwhile, the Digital Appliances Business will focus on achieving growth by increasing sales of premium products and strengthening marketing.
+ 
+In 2018, demand for NAND is likely to remain strong and market conditions are forecast to be stable. Samsung will expand 64-layer V-NAND production mainly at its Pyeongtaek plant. As for DRAM, the company expects solid demand growth due to new datacenter builds and will increase product competitiveness by expanding 10nm-class process migration. As for Foundry, Samsung will lead the technological process leadership with a risk production of 7-nano.
+ 
+For the Display Panel business in 2018, the company expects OLED to become a mainstream panel in the smartphone industry and will reinforce its competencies in new applications such as foldable, automotive, and IT displays. In the case of LCD panels, it will focus on meeting the market’s needs for ultra large-size and high-resolution TVs and strengthening partnerships with strategic customers.
+ 
+For Mobile in 2018, the company will pursue earnings growth by increasing premium products sales and maintaining profitability of mid-range to low-end products. The Networks Business plans to expand the supply of network solutions for 5G commercialization to major markets including Korea, the U.S., and Japan.
+ 
+For the CE Division this year, sales of ultra large-size TVs will continue to grow as the global market gears up for major international sporting events, including the FIFA World Cup and Winter Olympics. The Digital Appliances Business is expected to improve earnings by expanding its B2B business and online sales.
+ 
+Total capital expenditure (capex) executed in 2017 was KRW 43.4 trillion. Investment in the display panel segment reached KRW 13.5 trillion, while the Semiconductor business was accountable for KRW 27.3 trillion. The total was up significantly YoY because of investments in the Pyeongtaek plant and efforts to address demand for the foundry business and flexible OLED panels. Samsung’s capex plan for 2018 has yet to be finalized, but we expect the total amount to decrease on a YoY basis.
+ 
+Looking at the mid to long term, Samsung expects the components business to see demand expand from new applications. For the set business, the company expects to enjoy increased opportunities mainly related to software, connected devices, and services based on AI/IoT platforms.
+ 
+In semiconductors, as demand for high-density memory products for cloud servers and for chipsets required for automotive electronics and AI is expected to increase, Samsung will boost its technology competitiveness with cutting-edge processes and solutions with next-generation packaging.
+ 
+The OLED panel business will strengthen its competitiveness in the premium segment with the release of foldable panels, and focus on expanding new applications in areas such as automotive electronics by capitalizing on its technology and cost competitiveness.
+ 
+As for the Mobile business, Samsung will continue its efforts to differentiate its smartphones by adopting   cutting-edge technologies, such as foldable OLED displays. It will also drive forward new businesses related to AI/IoT by strengthening the ecosystem based on Bixby and building on Samsung’s 5G technology.
+ 
+The CE Division will bolster its leadership in the TV market by applying new technologies, such as 8K and Micro LED. Samsung will also improve the connectivity and usability of home appliances by expanding the application of Bixby.
+ 
+ 
+Semiconductor Maintains Strong Earnings
+The Semiconductor businesses posted KRW 10.90 trillion in operating profits on consolidated revenue of KRW 21.11 trillion for the quarter.
+The Memory Business achieved strong earnings amid favorable market conditions. For NAND, overall demand was strong due to strong seasonality for mobile, particularly high-density mobile products, as well as solid growth for server SSD. Samsung strengthened profitability and posted solid earnings by promptly responding to strong demand for higher-density and value-added memory products for newly launched mobile models and server SSD. For DRAM, demand for all applications increased QoQ amid peak seasonality. Server demand remained solid due to cloud expansion, new datacenters, and higher-density trends. Mobile demand also remained strong thanks to increasing set numbers and content growth, mainly from new flagship model launches. The company posted improved earnings by meeting demand for differentiated products, such as high-density server DRAM over 64GB and low-power LPDDR4X, and by flexibly managing its product mix.
+ 
+Looking at the first quarter outlook for NAND, server SSD demand from major cloud providers is expected to remain strong despite weak seasonality, and the high-density trend from high-end smartphones is likely to continue. Therefore, overall demand is expected to remain steady QoQ. On the supply side, supply is forecast to be limited despite industry expansion of 64-layer products. Samsung will focus on accelerating 64-layer transition and strengthening product differentiation via its V-NAND-based solutions. For 2018, stable market conditions and strong demand are anticipated and the company will focus on mass production of V-NAND while strengthening technology leadership through a ramp-up of the next generation product after 64-layer.
+ 
+As for the DRAM outlook in the first quarter, datacenter demand is expected to offset slow seasonality. Mobile demand is likely to decrease under the weak seasonal effect, however the decline is likely to be less than it was in the previous year thanks to demand for high density at the high-end and content growth at the low-end. Samsung will focus on continuing its flexible product mix strategy and strengthening cost competitiveness through expansion of 1xnm process migration. For 2018, continued demand for servers is expected due to new datacenter builds and increasing memory usage. Mobile demand is also expected to grow due to increasing requirements for high performance games, on-device AI, and hardware upgrades such as dual cameras. Samsung will look to enhance cost competitiveness through 10nm-class migration and expanding sales of high-density server DRAM.
+ 
+For the System LSI Business, earnings slowed as sales of mobile processors and image sensors decreased under weak seasonality. In the first quarter, Samsung will seek to ramp-up production of mobile processors for premium phones and expand sales of high-valued-added 3-stack Fast Readout Sensors (FRS). In 2018, demand for image sensors is expected to grow as smartphone vendors increase adoption of dual camera and 3-stack FRS. The company aims to post solid earnings by increasing mobile processor sales and expanding offerings to IoT, VR and automotive applications.
+ 
+For the Foundry Business, earnings decreased on weak seasonality. That said, sales in China increased as the company secured new customers. In the first quarter, earnings are expected to rise on the ramp-up of 2nd generation 10nm process products for this year’s flagship smartphones and growing demand for cryptocurrency mining chips. In 2018, Samsung will provide 8nm and 11nm processes to meet customers’ needs and start a risk production of 7-nano. In addition, we will increase its mass production capabilities at the new S3 and S4 lines for various products including mobile processors and image sensors.
+ 
+ 
+Display Posts Quarterly Growth
+The Display Panel business posted KRW 11.18 trillion in consolidated revenue and KRW 1.41 trillion in operating profit for the fourth quarter. Despite decreased revenue from LCD panels due to lower ASPs under weak seasonality, total earnings for the display business grew QoQ, driven by increased shipments of OLED panels for flagship smartphones.
+ 
+In 2018, OLED is expected to become the mainstream panel in the smartphone market, specifically in the high-end segment. Samsung will make efforts to actively address customers’ demands and differentiate its technology over LTPS LCD, as well as seeking new growth engines.
+ 
+As for LCD in 2018, while the company foresees market uncertainties due to intensified competition, Samsung will strive to solidify its position by offering differentiated products based on its technology leadership. Moreover, Samsung will reinforce its strategic partnerships and expand the sales of value-added products.
+ 
+Looking to the first quarter, the OLED business is likely to be affected by declining demand due to weak seasonality and by intensifying competition with LTPS LCD in the smartphone market. To secure profitability, Samsung will focus on product line-ups for flagship smartphones and expand its customer portfolio. In addition, the company will improve the productivity of flexible OLED panel manufacturing.
+ 
+For LCD in the first quarter, even though a decline in LCD demand is expected under weak seasonality, the company forecasts stable utilization thanks to rising demand for large-sized and high-resolution TVs led by major sporting events in the first half. Samsung will also focus on cost reduction and yield improvement as well as expansion of value-added products such as UHD, large-sized, and Quantum Dot products to enhance its profitability in response to market conditions.
+ 
+ 
+Mobile Sees Strong Flagship Sales
+The IT & Mobile Communications Division posted KRW 25.47 trillion in consolidated revenue and KRW 2.42 trillion in operating profit for the fourth quarter.
+ 
+While total smartphone shipments decreased compared to the last quarter, mainly in mass smartphones, sales of flagship models such as Galaxy Note 8 increased. Mobile business earnings decreased due to an increase in marketing cost amid strong seasonality.
+ 
+Looking ahead to 2018, demand for smartphones is expected to rise thanks to growing replacement demand for premium smartphones. In order to expand the sales of premium smartphones, Samsung will strengthen product competitiveness by differentiating core features and services, such as the camera and Bixby, and reinforce the sell-out programs and experiential stores. In addition, Samsung plans to continue optimizing its mid- to low-end lineup and enhancing productivity in order to achieve qualitative growth of the smartphone business.
+ 
+In the first quarter, amid forecasts for weak demand for smartphones and tablets due to low seasonality, the company expects to increase its smartphone shipments backed by the newly launched Galaxy A8 and A8+ and upcoming release of the Galaxy flagship, which will launch next month. Both sales and operating profit are expected to grow QoQ due to the rise in ASP.
+ 
+For the Networks Business, the second half of 2017 saw weak earnings following the completion of LTE investments from its major overseas partners in the first half. Samsung aims to strengthen its business foundation by supplying LTE base stations, mainly in North America, in the first quarter. For 2018, the company will focus on continuing to expand the supply of 5G-ready network solutions into major markets, including Korea, the U.S., and Japan.
+ 
+ 
+Consumer Electronics to Focus on Premium Products
+The Consumer Electronics Division, including the Visual Display and Digital Appliances businesses, posted KRW 12.72 trillion in consolidated revenue and KRW 0.51 trillion in operating profit for the fourth quarter.
+ 
+In the fourth quarter, the global TV market grew by double-digits QoQ thanks to the year-end holiday season, but the market declined YoY due to lower demand in North America, China, and the Middle East. Under these circumstances, earnings slightly declined YoY due to the company scaling back on its mid-range to low-end product lineup and lower product prices from intensified competition. However, earnings improved QoQ thanks to solid sales of premium products during the year-end peak season.
+ 
+As for the TV market in 2018, demand for ultra-large screen and premium TVs is expected to grow led by major sporting events. As the premium market continues to expand, the company will aim to strengthen its new lineup, including ultra-large screen QLED TVs as well as 8K TVs, and bolster marketing activities. Also, Samsung will provide new experiences and add value by applying Bixby and SmartThings to its TVs.
+ 
+In the first quarter, TV demand is expected to decline both YoY and QoQ under weak seasonality. Nevertheless, Samsung will aim to strengthen its market leadership in the premium segment by expanding premium product sales and bringing new products to market earlier.
+ 
+For the Digital Appliances Business in the fourth quarter, the market saw moderate YoY gains due to continued growth in North America and economic recoveries in Europe and CIS. The business’s revenue grew YoY thanks to strong sales of premium products, including the FlexWash washing machine and the Flex Duo with Dual Door oven, in advanced markets. However, an increase in material costs and B2B investments in North America weighed on profit.
+ 
+Looking ahead, in 2018, Samsung will focus on new growth by strengthening its B2B business and expanding distribution channels including online ones. In the first quarter, the company will expand its premium lineup—with products such as the new Family Hub refrigerator and washing machines with QuickDrive technology—and reinforce global marketing activities.

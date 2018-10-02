@@ -1,0 +1,87 @@
+Samsung Electronics announced financial results for the fourth quarter ended December 31, 2015.
+ 
+Samsung posted KRW 53.32 trillion in consolidated revenue and KRW 6.14 trillion in operating profit for the quarter.
+ 
+Overall, the company reported full-year 2015 revenue of KRW 200.65 trillion and full-year 2015 operating profit of KRW 26.41 trillion.
+ 
+Facing global economic headwinds, including a sharp fall in oil prices, the company’s fourth quarter earnings fell QoQ, as the components side of the business was impacted by weakened prices for DRAM chips and LCD panels due to overall softer demand in the IT market and PCs.
+ 
+In terms of currency, due to the strength of the Korean Won compared to major currencies in the fourth quarter, the positive FX impact that significantly contributed to the component business earnings in the third quarter changed to a negative impact of approximately KRW 400 billion, which was generated mostly from the set business.
+ 
+Expecting challenges in 2016 to maintain earnings due to a difficult business environment and slowing IT demand, the company will strive to improve performance in the second half, by capitalizing on strong seasonal demand for set business products and enhancing the product mix in components business.
+ 
+The company will make efforts to secure profitability for each business unit while it will also focus on reinforcing mid- to long-term business competitiveness, including new business areas such as the Internet-of-Things (IoT). For IoT, the company plans to focus initially on Smart Home and Smart Health, leveraging the strength of our overall ecosystem.
+ 
+For the memory business, the company plans to improve competitiveness of its products and solidify its technological leadership by expanding its leading-edge process. As for the System LSI business, the company plans to diversify its foundry customers and enhance the SoC (System-on-Chip) line-up.
+ 
+For the Display Panel segment, the company plans to secure mid- to long-term growth momentum by leveraging its OLED technology for the development of new panel applications such as transparent, mirror, head-mounted and automotive displays, while strengthening its flexible display technologies.
+ 
+For the mobile business, the company will focus on strengthening the competitiveness of its software, along with hardware, services and wearable products. For the consumer electronics business, the company plans to lead the Smart Home era with diverse IoT-enabled products.
+ 
+Looking at the first quarter specifically, challenging business conditions will likely remain due to weak seasonal demand and a slowdown in the IT industry. Therefore, the components business will focus on expanding the proportion of value added products, while the set business will focus on major launches of its new products.
+ 
+Regarding shareholder return, the company announced a KRW 11.3 trillion special buyback program and a three-year shareholder return policy last year. It completed the first phase of the buyback program on January 12, of which 2.23 million common shares and 1.24 million preferred shares worth KRW 4.25 trillion were repurchased and cancelled.
+ 
+Capital expenditure (CAPEX) for 2015 totaled KRW 25.5 trillion, including KRW 14.7 trillion and KRW 4.7 trillion for semiconductors and displays, respectively. The 2016 CAPEX plan remains under review.
+ 
+ 
+Samsung to Maintain Leadership with Differentiated Chips
+ 
+The Semiconductor business registered KRW 2.80 trillion in operating profits on consolidated revenue of KRW 13.21 trillion for the quarter.
+ 
+In the fourth quarter, weak demand across certain markets, including PCs, impacted the Memory business’s overall revenue, but sales of mobile and server DRAM were solid.
+ 
+Growing demand for solution products helped lift NAND demand for high-density mobile devices and enterprise SSD for servers and PCs that require greater storage.
+ 
+System LSI’s profits improved QoQ, driven by the 14-nm foundry business, despite weaker seasonal demand for SoC and LSI (Large-Scale Integration) chips.
+ 
+Looking ahead in 2016, demand for memory chips will increase due to growth in contents stored in high density servers featuring DRAM and SSD, as well as smartphones with more advanced features.
+ 
+Samsung will maintain its leadership in the market and drive sales with differentiated, high value-added products. To this end, the company will expand 20-nm process migration and develop 10-nm class process in DRAM. For NAND, production of third-generation V-NAND and SSD products will be expanded to enhance competitiveness. In System LSI, Samsung will continue pursuing customer diversification and expanding its product line-up to achieve long-term growth.
+ 
+Demand for memory chips in the first quarter, which is a traditionally weak season, will be soft but Samsung will focus on profitability by lifting sales of high density DRAM and NAND storage products, and strengthening cost competitiveness by expanding 20-nm DRAM and third-generation V-NAND production.
+ 
+Moreover, Samsung will further boost product competitiveness by beginning mass production of second-generation 14-nm process and supplying chips for new premium smartphones.
+ 
+ 
+ASP Decline Weighs on Display Panel Profit
+ 
+The Display Panel segment posted KRW 6.53 trillion in consolidated revenue and KRW 300 billion in operating profit for the quarter.
+ 
+In the fourth quarter, the LCD panel segment saw a earnings decline QoQ due to a decrease in shipments of large-size panels and continued decline in Average Selling Price (ASP). For OLED panels, positive factors such as increased shipments and improved line utilization were hampered by a decline in ASP brought on by an expansion in the proportion of mid- to low-end panel sales.
+ 
+Looking to the first quarter, the LCD market will likely be affected by intensifying competition among panel makers and declining demand due to weak seasonality. In response to these challenging conditions in the first quarter and beyond, Samsung will focus on improving cost efficiency and inventory management while also continuing efforts to expand its customer base.
+ 
+As for OLED panels, due to an expected slowdown in the smartphone display market in the first quarter, Samsung will concentrate on reinforcing cost competitiveness and promptly responding to market demand for new product releases by key customers. Throughout 2016, the company expects smartphone momentum to slow YoY, with most growth coming from low-end products.
+ 
+ 
+Differentiated Mobile Portfolio to Maintain Solid Performance
+ 
+The IM Division posted KRW 25.00 trillion in consolidated revenue and KRW 2.23 trillion in operating profit for the quarter.
+ 
+A slight QoQ decrease in smartphone shipments due to a year-end inventory adjustment and an increased portion of the mid- to low-end products led to the decline in sales while a seasonal increase in marketing expenses slightly impacted profit. As for tablets, quarterly shipments and sales increased due to seasonal demand and steady sales of the Galaxy Tab A and Tab S2.
+ 
+In the first quarter, although slowing demand for smartphones and tablets is forecast due to seasonality, and in spite of slowing shipments of Samsung smartphones, an enhanced product mix with the introduction of new line-ups, such as the Galaxy A (2016) series, is expected to help stabilize sales and profitability.
+ 
+As for the outlook for 2016, Samsung expects single-digit percentage growth in both the smartphone and tablet categories amid softening demand and intensifying competition. Despite this challenging environment, the company will focus on increasing smartphone shipments and maintaining a double digit margin through releases of competitive devices and an optimized product portfolio.
+ 
+Specifically, in the premium smartphone segment Samsung aims to reinforce its market leadership and drive growth with differentiated and innovative products. For the mass market segment, the company will focus on increasing shipments and profitability through competitive product line-ups.
+ 
+Meanwhile, tablets and wearable devices are expected to expand their contributions to overall business performance while new services such as Samsung Pay will continue to be developed.
+ 
+As for the Networks Business, continued roll out of 4G LTE services in global markets helped enhance its earnings for the quarter. Looking ahead, Samsung will look to build on its experience and actively expand its LTE services globally.
+ 
+ 
+Premium TVs and Home Appliances to Enhance Profitability
+ 
+The Consumer Electronics Division – encompassing the Visual Display (VD), Digital Appliances (DA), Printing Solutions and Health & Medical Equipment (HME) businesses – posted KRW 13.85 trillion in consolidated revenue and KRW 0.82 trillion in operating profit for the fourth quarter.
+ 
+In the fourth quarter, TV market demand increased significantly entering the year-end peak season. Earnings for the VD Business showed strong growth QoQ, led by promotional sales such as Black Friday in North America, and increased sales of premium products such as SUHD TVs.
+ 
+As the TV market is expected to grow this year, riding on global sporting events including the Olympics, Samsung will continue to focus on securing profitability by actively expanding its SUHD TV line-up with enhanced picture quality and design, while increasing sales of premium products such as curved TVs and large-size TVs that are 60 inches or above.
+ 
+In the first quarter, however, as TV demand enters a period of weak seasonality, the company will concentrate on introducing the new line-up of SUHD TVs.
+ 
+For the appliances business, earnings improved QoQ led by continued market growth in North America and increased sales of innovative premium products such as the Chef Collection refrigerators and activewash™ washing machine.
+ 
+Looking ahead in 2016, as growth in the appliances market is expected to slow, Samsung will concentrate on improving its performance by increasing sales of premium products such as the Family Hub refrigerator and expanding the enterprise business including air conditioners.
