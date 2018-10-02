@@ -1,6 +1,9 @@
 # 파이썬을 활용한 자연어 분석 기초 
 
 
+**강의 슬라이드 [SlideShare](https://www.slideshare.net/YBkim2/ss-117696991)**
+
+
 ## 강의목차
 
 1일차 - 1th hour - **자연어 분석기초, Token과 정규식, Stemming/Tagging**<br>
@@ -8,7 +11,7 @@
 1일차 - 3th hour - **StopWord, tf-idf, N-Gram(PMI)**<br>
   
 2일차 - 1th hour - **Naive Bayse Classification(실습)**<br>
-2일차 - 2th hour - **Word2Vec(실습), Doc2Vec**<br>
+2일차 - 2th hour - **Word2Vec(실습)**<br>
 2일차 - 3th hour - **LSTM(실습), Seq2Seq(실습)**<br>
 
 
