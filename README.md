@@ -1,7 +1,7 @@
 # 파이썬을 활용한 자연어 분석 기초 
 
 
-**강의 슬라이드 [SlideShare](https://www.slideshare.net/YBkim2/ss-117743266/YBkim2/ss-117743266)**
+**강의 슬라이드 [SlideShare](https://www.slideshare.net/YBkim2/ss-117904577)**
 
 
 ## 강의목차
