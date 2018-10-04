@@ -8,7 +8,7 @@
 
 1일차 - 1th hour - **자연어 분석기초, Token과 정규식, Stemming/Tagging**<br>
 1일차 - 2th hour - **Konlpy, WordCloud(실습)**<br>
-1일차 - 3th hour - **StopWord, tf-idf, N-Gram(PMI)**<br>
+1일차 - 3th hour - **StopWord, tf-idf**<br>
   
 2일차 - 1th hour - **Naive Bayse Classification(실습)**<br>
 2일차 - 2th hour - **Word2Vec(실습)**<br>
